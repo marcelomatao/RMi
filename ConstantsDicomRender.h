@@ -1,0 +1,23 @@
+//
+//  ConstantsDicomRender.h
+//  RMi
+//
+//  Created by Marcelo da Mata on 17/04/2013.
+//
+//
+
+#import <Foundation/Foundation.h>
+
+@interface ConstantsDicomRender : NSObject
+
+FOUNDATION_EXPORT int const SLICE_ORIENTATION_AXIAL;
+FOUNDATION_EXPORT int const SLICE_ORIENTATION_CORONAL;
+FOUNDATION_EXPORT int const SLICE_ORIENTATION_SAGITAL;
+
+FOUNDATION_EXPORT int const TAG_SPACING_SLICES;
+FOUNDATION_EXPORT int const TAG_BITS_ALLOCATED;
+FOUNDATION_EXPORT int const TAG_IMAGE_NUMBER;
+FOUNDATION_EXPORT int const TAG_ORIENTATION_SLICES;
+FOUNDATION_EXPORT int const TAG_SLICE_THICKNESS;
+
+@end

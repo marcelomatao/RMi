@@ -1,0 +1,31 @@
+LICENSE
+
+...
+
+OTHERS
+
+OBJ parser is based on parser from OBJ Viewer (http://timmaxwell.org/pages/objviewer) for Mac OS X developed by Tim Maxwell under MIT License. The source code are available at http://timmaxwell.org/svn/src/OBJ_Viewer
+
+RESOURCES LICENSES
+
+AntLion: Non-commercial / Learning for the use
+Re-exported with Blender
+http://3dmodel.domawe.com/2012/02/antlion-free-3d-model-half-life-2.html
+
+Barrel Explosive: Non-commercial / Learning for the use
+http://thefree3dmodels.com/stuff/accessories/explosive_barrel/21-1-0-1508
+
+buggy: Attribution-Noncommercial-Share Alike 3.0 Unported License
+http://thefree3dmodels.com/stuff/vehicles/buggy/13-1-0-832
+
+classic-lamppost: Creative Commons Attribution 3.0 United States License
+http://www.katorlegaz.com/3d_models/
+
+Combine_dropship: Attribution-Noncommercial-Share Alike 3.0 Unported License
+http://thefree3dmodels.com/stuff/aircraft/combine_dropship/15-1-0-834
+
+dog: Attribution-Noncommercial-Share Alike 3.0 Unported License
+http://thefree3dmodels.com/stuff/characters/d0g/14-1-0-839
+
+Rollermine: Attribution-Noncommercial-Share Alike 3.0 Unported License
+http://thefree3dmodels.com/stuff/weapons/rollermine/18-1-0-856
